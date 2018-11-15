@@ -1,0 +1,29 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1542297483963">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/AndroidManifest.xml" timestamp="1542297162917">
+        <mark key="[" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/res/values/strings.xml" timestamp="1542297254675">
+        <mark key="[" line="2" column="54" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
