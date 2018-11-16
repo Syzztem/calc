@@ -21,11 +21,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/java/fr/wcs/quetejavaui/MainActivity.java" timestamp="1542382137464">
+      <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/java/fr/wcs/quetejavaui/MainActivity.java" timestamp="1542383724714">
         <mark key="e" line="23" column="28" />
-        <mark key="[" line="45" column="34" />
-        <mark key="]" line="47" column="36" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/layout/activity_main.xml" timestamp="1542373690004">
         <mark key="[" line="0" column="0" />
@@ -73,34 +73,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsTWFpbkxheW91dC5hZGRWaWV3KHdhbnRUbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdG5hbWUuc2V0V2lkdGgoY29udmVydERwVG9QaXhlbCg0MDApKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsTWFpbkxheW91dC5hZGRWaWV3KHdhbnRUbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdG5hbWUuc2V0V2lkdGgoY29udmVydERwVG9QaXhlbCg0MDApKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsTWFpbkxheW91dC5hZGRWaWV3KHdhbnRUbyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgY29udmVydERwVG9QaXhlNWRkbChmbG9hdCBkcCl7CiAgICAgICAgRGlzcGxheU1ldHJpY3MgbWV0cmljcyA9IFJlc291cmNlcy5nZXRTeXN0ZW0oKS5nZXREaXNwbGF5TWV0cmljcygpOwogICAgICAgIGZsb2F0IHB4ID0gZHAgKiAobWV0cmljcy5kZW5zaXR5RHBpIC8gMTYwZik7CiAgICAgICAgcmV0dXJuIE1hdGgucm91bmQocHgpOwogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGNvbnZlcnREcFRvUGl4ZWwoaW50IGkpIHt9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgY29udmVydERwVG9QaXhlNWRkbChmbG9hdCBkcCl7CiAgICAgICAgRGlzcGxheU1ldHJpY3MgbWV0cmljcyA9IFJlc291cmNlcy5nZXRTeXN0ZW0oKS5nZXREaXNwbGF5TWV0cmljcygpOwogICAgICAgIGZsb2F0IHB4ID0gZHAgKiAobWV0cmljcy5kZW5zaXR5RHBpIC8gMTYwZik7CiAgICAgICAgcmV0dXJuIE1hdGgucm91bmQocHgpOwogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGNvbnZlcnREcFRvUGl4ZWwoaW50IGkpIHt9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGZyLndjcy5xdWV0ZWphdmF1aS5SZGQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">aW1wb3J0IGZyLndjcy5xdWV0ZWphdmF1aS5SZGQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -128,6 +128,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
