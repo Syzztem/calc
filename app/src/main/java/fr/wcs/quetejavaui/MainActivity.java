@@ -23,8 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
         // Parent Layout
         LinearLayout lMainLayout = this.findViewById(R.id.mainLinearLayout);
-        LinearLayout lFnLayout   = new LinearLayout(this);
-        LinearLayout lLnLayout   = new LinearLayout(this);
         LinearLayout lCbLayout   = new LinearLayout(this);
 
         // Views
@@ -85,5 +83,4 @@ public class MainActivity extends AppCompatActivity {
     private int convertDpToPixel(int dp){
         return Math.round(dp*(getResources().getDisplayMetrics().xdpi/DisplayMetrics.DENSITY_DEFAULT));
     }
-
 }
