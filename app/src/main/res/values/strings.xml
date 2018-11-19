@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quete java ui</string>
+    <string name="text">Welcome to the Wild Code School!</string>
+    <string name="wantTo">Yes, I want to be a Wilder</string>
+    <string name="fn">Firstname</string>
+    <string name="ln">Lastname</string>
+    <string name="accept">Accept</string>
+</resources>
