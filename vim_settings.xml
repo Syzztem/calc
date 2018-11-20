@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1542708224367">
+      <file name="/Dummy.txt" timestamp="1542709626916">
+        <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -35,12 +36,12 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="67" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/MainActivity.java" timestamp="1542707886817">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/MainActivity.java" timestamp="1542709463110">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="23" column="8" />
+        <mark key="^" line="23" column="8" />
+        <mark key="." line="23" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/layout/activity_main.xml" timestamp="1542373690004">
         <mark key="[" line="0" column="0" />
@@ -68,8 +69,11 @@
         <mark key="^" line="15" column="63" />
         <mark key="." line="15" column="63" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_main.xml" timestamp="1542703008511">
-        <mark key="[" line="16" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_main.xml" timestamp="1542709523334">
+        <mark key="[" line="207" column="27" />
+        <mark key="]" line="208" column="37" />
+        <mark key="." line="208" column="0" />
+        <mark key="^" line="33" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/.gitignore" timestamp="1542707008727">
         <mark key="[" line="0" column="0" />
@@ -110,43 +114,44 @@
       <jump line="61" column="28" filename="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/java/fr/wcs/quetejavaui/MainActivity.java" />
       <jump line="20" column="11" filename="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/Pad.java" />
       <jump line="19" column="0" filename="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/MainActivity.java" />
+      <jump line="0" column="1" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpvbkNsaWNrPSJjbGlja2VkIgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpvbkNsaWNrPSJjbGlja2VkIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpvbkNsaWNrPSJjbGlja2VkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcC5zZXR1cCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFkIHAgID0gbmV3IFBhZCh0aGlzLCBTdHJpbmcudmFsdWVPZihpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcC5zZXR1cCh0aGlzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUGFkIHAgID0gbmV3IFBhZCh0aGlzLCBTdHJpbmcudmFsdWVPZihpKSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJ1dHRvbnMuYWRkVmlldyhiKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZFRvR3JpZChCdXR0b24gYil7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>Button</text>
       </register>
     </registers>
     <search>
@@ -177,6 +182,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
