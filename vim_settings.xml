@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1542706141030">
+      <file name="/Dummy.txt" timestamp="1542707192340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -16,6 +16,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/.gitignore" timestamp="1542707051477">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="132" column="46" />
+        <mark key="." line="132" column="46" />
+        <mark key="^" line="132" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1542379859049">
         <mark key="[" line="0" column="4" />
@@ -63,6 +69,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_main.xml" timestamp="1542703008511">
         <mark key="[" line="16" column="35" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/.gitignore" timestamp="1542707008727">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="132" column="46" />
+        <mark key="." line="132" column="46" />
+        <mark key="^" line="132" column="46" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/values/strings.xml" timestamp="1542380237602">
         <mark key="[" line="2" column="27" />
       </file>
@@ -98,37 +110,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQYWRhZCpbXSBwYWRzID0gbmV3IEJ1dHRvblsxMF07Cg==</text>
+        <text encoding="base64">Ki5pbWwKLmdyYWRsZQovbG9jYWwucHJvcGVydGllcwovLmlkZWEvY2FjaGVzL2J1aWxkX2ZpbGVfY2hlY2tzdW1zLnNlcgovLmlkZWEvbGlicmFyaWVzCi8uaWRlYS9tb2R1bGVzLnhtbAovLmlkZWEvd29ya3NwYWNlLnhtbAouRFNfU3RvcmUKL2J1aWxkCi9jYXB0dXJlcwouZXh0ZXJuYWxOYXRpdmVCdWlsZAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQYWRhZCpbXSBwYWRzID0gbmV3IEJ1dHRvblsxMF07Cg==</text>
+        <text encoding="base64">Ki5pbWwKLmdyYWRsZQovbG9jYWwucHJvcGVydGllcwovLmlkZWEvY2FjaGVzL2J1aWxkX2ZpbGVfY2hlY2tzdW1zLnNlcgovLmlkZWEvbGlicmFyaWVzCi8uaWRlYS9tb2R1bGVzLnhtbAovLmlkZWEvd29ya3NwYWNlLnhtbAouRFNfU3RvcmUKL2J1aWxkCi9jYXB0dXJlcwouZXh0ZXJuYWxOYXRpdmVCdWlsZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">L2J1aWxkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkW2ldID0gbmV3IEJ1dHRvbih0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICBQYWRhZCpbXSBwYWRzID0gbmV3IEJ1dHRvblsxMF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRbXSBwYWRzID0gbmV3IEJ1dHRvblsxMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkW2ldID0gbmV3IEJ1dHRvbih0aGlzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwYWRbXSBwYWRzID0gbmV3IEJ1dHRvblsxMF07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBhZGRWaWV3KEJ1dHRvbiBiKXsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="-" type="4">
         <text>8</text>
@@ -141,8 +153,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
