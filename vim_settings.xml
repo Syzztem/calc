@@ -36,12 +36,12 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="67" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/MainActivity.java" timestamp="1542714175865">
+      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/MainActivity.java" timestamp="1542721012077">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="65" column="43" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="66" column="16" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="20" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/Calculator.java" timestamp="1542712175436">
         <mark key="[" line="18" column="8" />
@@ -65,8 +65,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/Eval.java" timestamp="1542714012319">
-        <mark key="[" line="0" column="18" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/Eval.java" timestamp="1542719109778">
+        <mark key="[" line="4" column="28" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
@@ -132,34 +132,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiLSI6Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiLSI6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBmci53Y3MuY2FsY3VsYXRvcjsKCnB1YmxpYyBjbGFzcyBFdmFsJycnCn0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnWCcK</text>
+        <text encoding="base64">cGFja2FnZSBmci53Y3MuY2FsY3VsYXRvcjsKCnB1YmxpYyBjbGFzcyBFdmFsJycnCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnWCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpvbkNsaWNrPSJjbGlja2VkIgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
