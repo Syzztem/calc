@@ -54,6 +54,23 @@ public class MainActivity extends AppCompatActivity {
 
                 break;
 
+            case "()":
+                char lastChar = currentDisplay.charAt( currentDisplay.length() - 1 );
+
+                if("".equals( currentDisplay )) {
+                    textView.setText("(");
+                } else if (currentDisplay.endsWith(")")) {
+                    textView.append("X(");
+                } else if (currentDisplay.endsWith("(") || Arrays.asList( OPERATORS ).contains( lastChar )) {
+                    textView.append("(");
+                } else textView.append(")");
+
+
+                //si le dernier charactere est un symbole ou une ouvrante , alors "("
+                //si le dernier charactere est un nombre ET que le dernier click "()" à fait "(", then ")"
+
+
+
             default:
                 textView.append(b.getText());
                 break;
@@ -62,8 +79,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-    public static void addToDisplay(String add) {
-        //TODO
-    }
+
 
 }
