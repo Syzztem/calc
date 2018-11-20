@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1542707192340">
+      <file name="/Dummy.txt" timestamp="1542708224367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -35,9 +35,11 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="67" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/MainActivity.java" timestamp="1542706586538">
-        <mark key="[" line="20" column="15" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/MainActivity.java" timestamp="1542707886817">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/layout/activity_main.xml" timestamp="1542373690004">
@@ -107,37 +109,38 @@
     <jumps>
       <jump line="61" column="28" filename="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/java/fr/wcs/quetejavaui/MainActivity.java" />
       <jump line="20" column="11" filename="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/Pad.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/MainActivity.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Ki5pbWwKLmdyYWRsZQovbG9jYWwucHJvcGVydGllcwovLmlkZWEvY2FjaGVzL2J1aWxkX2ZpbGVfY2hlY2tzdW1zLnNlcgovLmlkZWEvbGlicmFyaWVzCi8uaWRlYS9tb2R1bGVzLnhtbAovLmlkZWEvd29ya3NwYWNlLnhtbAouRFNfU3RvcmUKL2J1aWxkCi9jYXB0dXJlcwouZXh0ZXJuYWxOYXRpdmVCdWlsZAo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ki5pbWwKLmdyYWRsZQovbG9jYWwucHJvcGVydGllcwovLmlkZWEvY2FjaGVzL2J1aWxkX2ZpbGVfY2hlY2tzdW1zLnNlcgovLmlkZWEvbGlicmFyaWVzCi8uaWRlYS9tb2R1bGVzLnhtbAovLmlkZWEvd29ya3NwYWNlLnhtbAouRFNfU3RvcmUKL2J1aWxkCi9jYXB0dXJlcwouZXh0ZXJuYWxOYXRpdmVCdWlsZAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">L2J1aWxkCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQYWRhZCpbXSBwYWRzID0gbmV3IEJ1dHRvblsxMF07Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkW2ldID0gbmV3IEJ1dHRvbih0aGlzKTsK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcC5zZXR1cCh0aGlzKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUGFkIHAgID0gbmV3IFBhZCh0aGlzLCBTdHJpbmcudmFsdWVPZihpKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRbXSBwYWRzID0gbmV3IEJ1dHRvblsxMF07Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmJ1dHRvbnMuYWRkVmlldyhiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZFRvR3JpZChCdXR0b24gYil7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
