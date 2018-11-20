@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
                 } else textView.append(")");
                 break;
             case "=":
-                textView.setText("" + Eval.eval(currentDisplay.replaceAll("X", "*")));
+                textView.setText("" + Eval.eval(currentDisplay.replaceAll("X", "*").replaceAll(",", ".")));
                 break;
 
                 //si le dernier charactere est un symbole ou une ouvrante , alors "("
