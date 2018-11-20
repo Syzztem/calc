@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private GridLayout buttons = this.findViewById(R.id.buttons);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,7 +20,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void clicked(View view){
+        TextView textView = this.findViewById(R.id.Display);
         System.out.println("r");
+        Button b= (Button)view;
+        textView.append(b.getText());
+
     }
     public static void addToDisplay(String add) {
         //TODO
