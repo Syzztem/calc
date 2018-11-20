@@ -71,17 +71,17 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542725867517">
+      <file name="/Dummy.txt" timestamp="1542727444455">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItinerarySearchActivity.java" timestamp="1542725449267">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItinerarySearchActivity.java" timestamp="1542727315612">
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Calculator/.gitignore" timestamp="1542707051477">
         <mark key="[" line="0" column="0" />
@@ -111,6 +111,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/values/colors.xml" timestamp="1542380158526">
         <mark key="[" line="4" column="44" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/res/layout/activity_itinerary_search.xml" timestamp="1542726513808">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="32" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/MainActivity.java" timestamp="1542361984672">
         <mark key="[" line="15" column="62" />
         <mark key="]" line="15" column="63" />
@@ -138,34 +143,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiLSI6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgdXBkYXRlTGFiZWwoKSB7CiAgICAgICAgICAgIFN0cmluZyAgICAgICAgICAgZm9ybWF0ICAgICAgICA9ICJkZC9NTS95eSI7CiAgICAgICAgICAgIFNpbXBsZURhdGVGb3JtYXQgc2RmICAgICAgICAgICA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KGZvcm1hdCwgTG9jYWxlLkNBTkFEQSk7CiAgICAgICAgICAgIGRhdC5zZXRUZXh0KHNkZi5mb3JtYXQoY2FsZW5kYXIuZ2V0VGltZSgpKSk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiLSI6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgdXBkYXRlTGFiZWwoKSB7CiAgICAgICAgICAgIFN0cmluZyAgICAgICAgICAgZm9ybWF0ICAgICAgICA9ICJkZC9NTS95eSI7CiAgICAgICAgICAgIFNpbXBsZURhdGVGb3JtYXQgc2RmICAgICAgICAgICA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KGZvcm1hdCwgTG9jYWxlLkNBTkFEQSk7CiAgICAgICAgICAgIGRhdC5zZXRUZXh0KHNkZi5mb3JtYXQoY2FsZW5kYXIuZ2V0VGltZSgpKSk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCB2b2lkIGZpbmFsVXBkYXRlTGFiZWwgPSB1cGRhdGVMYWJlbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgdXBkYXRlTGFiZWwoKXsKICAgICAgICAgICAgU3RyaW5nICAgICAgICAgICBmb3JtYXQgICAgICAgID0gImRkL01NL3l5IjsKICAgICAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBzZGYgICAgICAgICAgID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoZm9ybWF0LCBMb2NhbGUuQ0FOQURBKTsKICAgICAgICAgICAgZGF0LnNldFRleHQoc2RmLmZvcm1hdChjYWxlbmRhci5nZXRUaW1lKCkpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNsaWNrYWJsZT0idHJ1ZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBmci53Y3MuY2FsY3VsYXRvcjsKCnB1YmxpYyBjbGFzcyBFdmFsJycnCn0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0iYXV0byIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnWCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiLSI6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
