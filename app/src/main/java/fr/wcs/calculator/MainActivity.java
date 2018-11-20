@@ -64,7 +64,10 @@ public class MainActivity extends AppCompatActivity {
                 } else if (currentDisplay.endsWith("(") || Arrays.asList( OPERATORS ).contains( lastChar )) {
                     textView.append("(");
                 } else textView.append(")");
-
+                break;
+            case "=":
+                textView.setText("" + Eval.eval(currentDisplay));
+                break;
 
                 //si le dernier charactere est un symbole ou une ouvrante , alors "("
                 //si le dernier charactere est un nombre ET que le dernier click "()" à fait "(", then ")"
