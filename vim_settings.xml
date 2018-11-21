@@ -48,6 +48,9 @@
         <mark key="." line="132" column="46" />
         <mark key="^" line="132" column="46" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripModel.java" timestamp="1542793508654">
+        <mark key="[" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/build.gradle" timestamp="1542725848212">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="23" />
@@ -70,7 +73,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542788797531">
+      <file name="/Dummy.txt" timestamp="1542793380125">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -130,7 +133,7 @@
         <mark key="." line="66" column="17" />
         <mark key="^" line="66" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1542713187181">
+      <file name="/fragment.java" timestamp="1542793473417">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -144,8 +147,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvL0xpbmVhckxheW91dCBsQ2JMYXlvdXQgICA9IG5ldyBMaW5lYXJMYXlvdXQodGhpcyk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL0xpbmVhckxheW91dCBsQ2JMYXlvdXQgICA9IG5ldyBMaW5lYXJMYXlvdXQodGhpcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>textView2</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAvL2xDYkxheW91dC5hZGRWaWV3KHdhbnRUbyk7Cg==</text>
@@ -175,7 +178,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>textView2</text>
       </register>
     </registers>
     <search>
