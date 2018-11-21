@@ -48,8 +48,10 @@
         <mark key="." line="132" column="46" />
         <mark key="^" line="132" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripModel.java" timestamp="1542793508654">
-        <mark key="[" line="2" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripModel.java" timestamp="1542796887692">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/build.gradle" timestamp="1542725848212">
         <mark key="[" line="6" column="23" />
@@ -73,12 +75,17 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542793380125">
+      <file name="/Dummy.txt" timestamp="1542796554339">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripAdapter.java" timestamp="1542796575067">
+        <mark key="[" line="22" column="63" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItinerarySearchActivity.java" timestamp="1542727315612">
         <mark key="[" line="66" column="4" />
@@ -133,7 +140,7 @@
         <mark key="." line="66" column="17" />
         <mark key="^" line="66" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1542793473417">
+      <file name="/fragment.java" timestamp="1542795208061">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -145,34 +152,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL0xpbmVhckxheW91dCBsQ2JMYXlvdXQgICA9IG5ldyBMaW5lYXJMYXlvdXQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZmlyc3RuYW1lOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>textView2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZmlyc3RuYW1lOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xDYkxheW91dC5hZGRWaWV3KHdhbnRUbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xNYWluTGF5b3V0LmFkZFZpZXcobENiTGF5b3V0KTsK</text>
+        <text encoding="base64">ICAgICAgICBUZXh0VmlldyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgdXBkYXRlTGFiZWwoKSB7CiAgICAgICAgICAgIFN0cmluZyAgICAgICAgICAgZm9ybWF0ICAgICAgICA9ICJkZC9NTS95eSI7CiAgICAgICAgICAgIFNpbXBsZURhdGVGb3JtYXQgc2RmICAgICAgICAgICA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KGZvcm1hdCwgTG9jYWxlLkNBTkFEQSk7CiAgICAgICAgICAgIGRhdC5zZXRUZXh0KHNkZi5mb3JtYXQoY2FsZW5kYXIuZ2V0VGltZSgpKSk7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCB2b2lkIGZpbmFsVXBkYXRlTGFiZWwgPSB1cGRhdGVMYWJlbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgdXBkYXRlTGFiZWwoKXsKICAgICAgICAgICAgU3RyaW5nICAgICAgICAgICBmb3JtYXQgICAgICAgID0gImRkL01NL3l5IjsKICAgICAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBzZGYgICAgICAgICAgID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoZm9ybWF0LCBMb2NhbGUuQ0FOQURBKTsKICAgICAgICAgICAgZGF0LnNldFRleHQoc2RmLmZvcm1hdChjYWxlbmRhci5nZXRUaW1lKCkpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNsaWNrYWJsZT0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0iYXV0byIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiLSI6Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
