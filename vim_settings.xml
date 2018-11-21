@@ -172,7 +172,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiLSI6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -185,8 +185,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
