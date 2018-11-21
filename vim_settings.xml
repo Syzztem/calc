@@ -70,22 +70,23 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItineraryListActivity.java" timestamp="1542364804045">
-        <mark key="[" line="13" column="74" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItineraryListActivity.java" timestamp="1542800452656">
+        <mark key="[" line="22" column="70" />
+        <mark key="]" line="22" column="7" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542796554339">
+      <file name="/Dummy.txt" timestamp="1542800445180">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripAdapter.java" timestamp="1542796575067">
-        <mark key="[" line="22" column="63" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripAdapter.java" timestamp="1542800357127">
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItinerarySearchActivity.java" timestamp="1542727315612">
         <mark key="[" line="66" column="4" />
@@ -152,40 +153,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZmlyc3RuYW1lOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaWN1LnRleHQuU2ltcGxlRGF0ZUZvcm1hdDsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZmlyc3RuYW1lOwo=</text>
+      <register name="&quot;" type="4">
+        <text>android.support.v7.widget.RecyclerVie</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICDCsgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0VmlldyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnZlcnRWaWV3Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdHJpcCAhPSBudWxsOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29udmVydFZpZXcgPT0gbnVsbClkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZmlyc3RuYW1lOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>textView2</text>
+        <text>android.support.v7.widget.RecyclerVie</text>
       </register>
     </registers>
     <search>
