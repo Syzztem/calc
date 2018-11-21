@@ -70,22 +70,22 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItineraryListActivity.java" timestamp="1542800452656">
-        <mark key="[" line="22" column="70" />
-        <mark key="]" line="22" column="7" />
-        <mark key="^" line="22" column="7" />
-        <mark key="." line="22" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItineraryListActivity.java" timestamp="1542801198406">
+        <mark key="[" line="31" column="40" />
+        <mark key="]" line="34" column="91" />
+        <mark key="^" line="30" column="84" />
+        <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542800445180">
+      <file name="/Dummy.txt" timestamp="1542801655978">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripAdapter.java" timestamp="1542800357127">
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="38" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripAdapter.java" timestamp="1542800903285">
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="38" column="43" />
         <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/ItinerarySearchActivity.java" timestamp="1542727315612">
@@ -153,34 +153,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaWN1LnRleHQuU2ltcGxlRGF0ZUZvcm1hdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJpcHMuYWRkKG5ldyBUcmlwTW9kZWwoIkVyaWMiLCAiQ2FydG1hbiIsIHNkZi5wYXJzZSgiMjEvMDIvMjAxNy0xNTozMCIpLCAxNSkpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>android.support.v7.widget.RecyclerVie</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJpcHMuYWRkKG5ldyBUcmlwTW9kZWwoIkVyaWMiLCAiQ2FydG1hbiIsIHNkZi5wYXJzZSgiMjEvMDIvMjAxNy0xNTozMCIpLCAxNSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICDCsgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpY2Uuc2V0VGV4dCh0cmlwLmdldFByaWNlKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnZlcnRWaWV3Owo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaWN1LnRleHQuU2ltcGxlRGF0ZUZvcm1hdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICDCsgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnZlcnRWaWV3Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdHJpcCAhPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29udmVydFZpZXcgPT0gbnVsbClkZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZmlyc3RuYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdHJpcCAhPSBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29udmVydFZpZXcgPT0gbnVsbClkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
