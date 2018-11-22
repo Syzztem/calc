@@ -47,8 +47,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml" timestamp="1542877608181">
         <mark key="[" line="3" column="32" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripModel.java" timestamp="1542796887692">
         <mark key="[" line="15" column="4" />
@@ -66,6 +64,12 @@
         <mark key="]" line="66" column="17" />
         <mark key="." line="66" column="17" />
         <mark key="^" line="66" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/java/fr/wcs/mediaplayer/Player.java" timestamp="1542879927285">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/res/layout/activity_itinerary_list.xml" timestamp="1542365129548">
         <mark key="[" line="2" column="0" />
@@ -158,31 +162,31 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJpcHMuYWRkKG5ldyBUcmlwTW9kZWwoIkVyaWMiLCAiQ2FydG1hbiIsIHNkZi5wYXJzZSgiMjEvMDIvMjAxNy0xNTozMCIpLCAxNSkpOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIElCaW5kZXIgb25CaW5kKEludGVudCBpbnRlbnQpIHsKICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4KICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpY2Uuc2V0VGV4dCh0cmlwLmdldFByaWNlKCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaWN1LnRleHQuU2ltcGxlRGF0ZUZvcm1hdDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICDCsgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQbGF5ZXIoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnZlcnRWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
