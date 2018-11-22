@@ -45,8 +45,10 @@
         <mark key="." line="132" column="46" />
         <mark key="^" line="132" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml" timestamp="1542877608181">
-        <mark key="[" line="3" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml" timestamp="1542881614575">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripModel.java" timestamp="1542796887692">
         <mark key="[" line="15" column="4" />
@@ -82,7 +84,7 @@
         <mark key="^" line="30" column="84" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542877433333">
+      <file name="/Dummy.txt" timestamp="1542882611778">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -124,8 +126,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/java/fr/wcs/mediaplayer/MainActivity.java" timestamp="1542877711003">
-        <mark key="[" line="14" column="46" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/java/fr/wcs/mediaplayer/MainActivity.java" timestamp="1542882164605">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/values/colors.xml" timestamp="1542380158526">
         <mark key="[" line="4" column="44" />
@@ -168,34 +172,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImh0dHA6Ly9oY21hc2xvdi5kLXJlYWwuc2NpLW5ub3YucnUvcHVibGljL21wMy9RdWVlbi9RdWVlbiUyMCdCb2hlbWlhbiUyMFJoYXBzb2R5Jy5tcDMiOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIElCaW5kZXIgb25CaW5kKEludGVudCBpbnRlbnQpIHsKICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4KICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNZWRpYVBsYXllciBwbGF5ZXIgPSBuZXcgTWVkaWFQbGF5ZXIoKTsKICAgICAgICBwbGF5ZXIuc2V0QXVkaW9TdHJlYW1UeXBlKEF1ZGlvTWFuYWdlci5TVFJFQU1fTVVTSUMpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHBsYXllci5zZXREYXRhU291cmNlKHVybCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICBwbGF5ZXIucHJlcGFyZUFzeW5jKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBNZWRpYVBsYXllciBwbGF5ZXIgPSBuZXcgTWVkaWFQbGF5ZXIoKTsKICAgICAgICBwbGF5ZXIuc2V0QXVkaW9TdHJlYW1UeXBlKEF1ZGlvTWFuYWdlci5TVFJFQU1fTVVTSUMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNZWRpYVBsYXllciBwbGF5ZXIgPSBuZXcgTWVkaWFQbGF5ZXIoKTsKICAgICAgICBwbGF5ZXIuc2V0QXVkaW9TdHJlYW1UeXBlKEF1ZGlvTWFuYWdlci5TVFJFQU1fTVVTSUMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQbGF5ZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>android.support.v7.widget.RecyclerVie</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
