@@ -72,11 +72,11 @@
         <mark key="." line="66" column="17" />
         <mark key="^" line="66" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/java/fr/wcs/mediaplayer/Player.java" timestamp="1542885690063">
+      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/java/fr/wcs/mediaplayer/Player.java" timestamp="1542888212144">
         <mark key="[" line="16" column="11" />
-        <mark key="]" line="21" column="7" />
-        <mark key="." line="21" column="7" />
-        <mark key="^" line="21" column="7" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="25" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/res/layout/activity_itinerary_list.xml" timestamp="1542365129548">
         <mark key="[" line="2" column="0" />
@@ -89,10 +89,10 @@
         <mark key="^" line="30" column="84" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542886993525">
+      <file name="/Dummy.txt" timestamp="1542888529973">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
@@ -131,10 +131,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/java/fr/wcs/mediaplayer/MainActivity.java" timestamp="1542885653335">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/java/fr/wcs/mediaplayer/MainActivity.java" timestamp="1542887950100">
+        <mark key="[" line="45" column="44" />
+        <mark key="]" line="45" column="30" />
+        <mark key="." line="45" column="30" />
+        <mark key="^" line="45" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/res/values/strings.xml" timestamp="1542885205226">
         <mark key="[" line="1" column="47" />
@@ -174,40 +175,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3Lk9uQ2xpY2tMaXN0ZW5lciBwcCBuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxheVBhdXNlLnNldENoZWNrZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>toggleButton</text>
+        <text>editText</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICBWaWV3Lk9uQ2xpY2tMaXN0ZW5lciBwcCBuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCAgIFRvZ2dsZUJ1dHRvbiAgICBwbGF5UGF1c2UgICA9IGZpbmRWaWV3QnlJZChSLmlkLnBsYXlCdXR0b24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IlRvZ2dsZUJ1dHRvbiIK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCAgIFRvZ2dsZUJ1dHRvbiAgICBwbGF5UGF1c2UgICA9IGZpbmRWaWV3QnlJZChSLmlkLnBsYXlCdXR0b24pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IlRvZ2dsZUJ1dHRvbiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB1cmwgPSAiaHR0cDovL2hjbWFzbG92LmQtcmVhbC5zY2ktbm5vdi5ydS9wdWJsaWMvbXAzL1F1ZWVuL1F1ZWVuJTIwJ0JvaGVtaWFuJTIwUmhhcHNvZHknLm1wMyI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>toggleButton</text>
+        <text>editText</text>
       </register>
     </registers>
     <search>
