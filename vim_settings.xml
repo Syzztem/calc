@@ -27,12 +27,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Calculator/app/src/main/java/fr/wcs/calculator/Pad.java" timestamp="1542705794088">
-        <mark key="'" line="20" column="11" />
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QueteJavaUI/app/build.gradle" timestamp="1542806190466">
         <mark key="[" line="6" column="23" />
       </file>
@@ -50,6 +44,11 @@
         <mark key="]" line="132" column="46" />
         <mark key="." line="132" column="46" />
         <mark key="^" line="132" column="46" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml" timestamp="1542877608181">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BlaBlaWild/app/src/main/java/fr/wcs/blablawild/TripModel.java" timestamp="1542796887692">
         <mark key="[" line="15" column="4" />
@@ -79,7 +78,7 @@
         <mark key="^" line="30" column="84" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542815254692">
+      <file name="/Dummy.txt" timestamp="1542877433333">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -121,6 +120,9 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/java/fr/wcs/mediaplayer/MainActivity.java" timestamp="1542877711003">
+        <mark key="[" line="14" column="46" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/values/colors.xml" timestamp="1542380158526">
         <mark key="[" line="4" column="44" />
       </file>
@@ -156,34 +158,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJpcHMuYWRkKG5ldyBUcmlwTW9kZWwoIkVyaWMiLCAiQ2FydG1hbiIsIHNkZi5wYXJzZSgiMjEvMDIvMjAxNy0xNTozMCIpLCAxNSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJpcHMuYWRkKG5ldyBUcmlwTW9kZWwoIkVyaWMiLCAiQ2FydG1hbiIsIHNkZi5wYXJzZSgiMjEvMDIvMjAxNy0xNTozMCIpLCAxNSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpY2Uuc2V0VGV4dCh0cmlwLmdldFByaWNlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaWN1LnRleHQuU2ltcGxlRGF0ZUZvcm1hdDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICDCsgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJpcHMuYWRkKG5ldyBUcmlwTW9kZWwoIkVyaWMiLCAiQ2FydG1hbiIsIHNkZi5wYXJzZSgiMjEvMDIvMjAxNy0xNTozMCIpLCAxNSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnZlcnRWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpY2Uuc2V0VGV4dCh0cmlwLmdldFByaWNlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaWN1LnRleHQuU2ltcGxlRGF0ZUZvcm1hdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICDCsgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdHJpcCAhPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbnZlcnRWaWV3Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29udmVydFZpZXcgPT0gbnVsbClkZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
