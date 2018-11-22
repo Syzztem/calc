@@ -126,10 +126,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/java/fr/wcs/mediaplayer/MainActivity.java" timestamp="1542882164605">
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MediaPlayer/app/src/main/java/fr/wcs/mediaplayer/MainActivity.java" timestamp="1542884083110">
+        <mark key="[" line="49" column="37" />
+        <mark key="]" line="49" column="9" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Quetejavaui/app/src/main/res/values/colors.xml" timestamp="1542380158526">
         <mark key="[" line="4" column="44" />
@@ -166,34 +167,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRjaCAoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGUpewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRjaCAoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGUpewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImh0dHA6Ly9oY21hc2xvdi5kLXJlYWwuc2NpLW5ub3YucnUvcHVibGljL21wMy9RdWVlbi9RdWVlbiUyMCdCb2hlbWlhbiUyMFJoYXBzb2R5Jy5tcDMiOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBUb2dnbGVCdXR0b24gcGxheUJ1dHRvbiA9IGZpbmRWaWV3QnlJZChSLmlkLnBsYXlCdXR0b24pOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNZWRpYVBsYXllciBwbGF5ZXIgPSBuZXcgTWVkaWFQbGF5ZXIoKTsKICAgICAgICBwbGF5ZXIuc2V0QXVkaW9TdHJlYW1UeXBlKEF1ZGlvTWFuYWdlci5TVFJFQU1fTVVTSUMpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHBsYXllci5zZXREYXRhU291cmNlKHVybCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICBwbGF5ZXIucHJlcGFyZUFzeW5jKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZWRpYVBsYXllciBwbGF5ZXIgPSBuZXcgTWVkaWFQbGF5ZXIoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNZWRpYVBsYXllciBwbGF5ZXIgPSBuZXcgTWVkaWFQbGF5ZXIoKTsKICAgICAgICBwbGF5ZXIuc2V0QXVkaW9TdHJlYW1UeXBlKEF1ZGlvTWFuYWdlci5TVFJFQU1fTVVTSUMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXIucHJlcGFyZUFzeW5jKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNZWRpYVBsYXllciBwbGF5ZXIgPSBuZXcgTWVkaWFQbGF5ZXIoKTsKICAgICAgICBwbGF5ZXIuc2V0QXVkaW9TdHJlYW1UeXBlKEF1ZGlvTWFuYWdlci5TVFJFQU1fTVVTSUMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImh0dHA6Ly9oY21hc2xvdi5kLXJlYWwuc2NpLW5ub3YucnUvcHVibGljL21wMy9RdWVlbi9RdWVlbiUyMCdCb2hlbWlhbiUyMFJoYXBzb2R5Jy5tcDMiOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICBNZWRpYVBsYXllciBwbGF5ZXIgPSBuZXcgTWVkaWFQbGF5ZXIoKTsKICAgICAgICBwbGF5ZXIuc2V0QXVkaW9TdHJlYW1UeXBlKEF1ZGlvTWFuYWdlci5TVFJFQU1fTVVTSUMpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHBsYXllci5zZXREYXRhU291cmNlKHVybCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICBwbGF5ZXIucHJlcGFyZUFzeW5jKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
